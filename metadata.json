@@ -1,0 +1,6 @@
+{
+  "name": "Achal Shop",
+  "description": "E-commerce app with splash, auth, home, categories, cart, and profile features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
